@@ -1,4 +1,14 @@
-### Hi there 👋
+
+
+### Welcome to my GitHub profile!👋
+
+Hello, I'm Quilfort, currently navigating the exciting world of coding as a student at [Codam](https://www.codam.nl/en/)/[42 Network](https://www.42network.org/) in Amsterdam. 
+
+Feel free to poke around, but keep in mind that this README is a work in progress. Updates will be coming soon.
+
+---
+
+
 
 <!--
 **Quilfort/Quilfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
