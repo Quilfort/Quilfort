@@ -8,7 +8,7 @@ Feel free to poke around, but keep in mind that this README is a work in progres
 
 ---
 
-
+![Snake animation](https://github.com/Quilfort/Quilfort/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Quilfort/Quilfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
