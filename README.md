@@ -6,12 +6,11 @@ Hello, I'm Quilfort, currently navigating the exciting world of coding as a stud
 
 Feel free to poke around, but keep in mind that this README is a work in progress. Updates will be coming soon.
 
+![Snake animation](https://github.com/Quilfort/Quilfort/blob/output/github-contribution-grid-snake.svg)
 ---
 
-
-
 <!--
-![Snake animation](https://github.com/Quilfort/Quilfort/blob/output/github-contribution-grid-snake.svg)
+
 **Quilfort/Quilfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
