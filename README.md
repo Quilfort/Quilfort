@@ -1,13 +1,14 @@
 
 
-### Welcome to my GitHub profile!👋
+### Welcome to my GitHub profile! 👋
 
-Hello, I'm Quilfort, currently navigating the exciting world of coding as a student at [Codam](https://www.codam.nl/en/)/[42 Network](https://www.42network.org/) in Amsterdam. 
+Hi, I'm Quilfort! I'm currently working as a backend developer, but my journey with code started way back when I first picked up C. Since then, I've explored various projects —big and small— and have grown passionate about creating fun, quirky things along the way. 
 
-Feel free to poke around, but keep in mind that this README is a work in progress. Updates will be coming soon.
+I studied at [Codam](https://www.codam.nl/en/)/[42 Network](https://www.42network.org/) in Amsterdam, and I still keep those roots close as I continue learning and growing in tech.
 
-![Snake animation](https://github.com/Quilfort/Quilfort/blob/output/github-contribution-grid-snake.svg)
----
+You'll find me working on backend development, dabbling with AI, or diving into some gaming-inspired side projects. I like to keep things fun, so feel free to explore what I've been up to here!
+
+More updates to come soon—this README is always a work in progress.
 
 <!--
 
